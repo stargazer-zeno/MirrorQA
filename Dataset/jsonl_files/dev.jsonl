@@ -1,103 +1,103 @@
-{"image": "bear66.jpg", "question": "Which paw of the brown bear in the picture is the most forward?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "A"}
-{"image": "cat009.jpg", "question": "Which leg of the cat is stretched forward in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "A"}
-{"image": "dog116.jpeg", "question": "Which paw of the dog is raised in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "A"}
-{"image": "horse372.jpg", "question": "Which leg of the horse in the picture is the most forward?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "A"}
-{"image": "apes010.jpg", "question": "Which limb of the chimpanzee is stretched out in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "A"}
-{"image": "horse364.jpg", "question": "Which front hoof is the horse raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "A"}
-{"image": "dog046.jpg", "question": "Which paw is the dog raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "A"}
-{"image": "antelope02.jpg", "question": "Which front leg does the antelope on the left side of the picture take a step forward with?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "A"}
-{"image": "bear33.jpg", "question": "Which front paw does the panda take a step forward with?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "A"}
-{"image": "dog087.jpg", "question": "Which leg does the dog raise in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "A"}
-{"image": "leopard89.jpg", "question": "Which paw does the leopard raise in the picture, preparing to take a step forward with?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right rear"], "answer": "A"}
+{"image": "bear66.jpg", "question": "Which paw of the brown bear in the picture is the most forward?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
+{"image": "cat009.jpg", "question": "Which leg of the cat is stretched forward in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
+{"image": "dog116.jpeg", "question": "Which paw of the dog is raised in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
+{"image": "horse372.jpg", "question": "Which leg of the horse in the picture is the most forward?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
+{"image": "apes010.jpg", "question": "Which limb of the chimpanzee is stretched out in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
+{"image": "horse364.jpg", "question": "Which front hoof is the horse raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
+{"image": "dog046.jpg", "question": "Which paw is the dog raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
+{"image": "antelope02.jpg", "question": "Which front leg does the antelope on the left side of the picture take a step forward with?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
+{"image": "bear33.jpg", "question": "Which front paw does the panda take a step forward with?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
+{"image": "dog087.jpg", "question": "Which leg does the dog raise in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
+{"image": "leopard89.jpg", "question": "Which paw does the leopard raise in the picture, preparing to take a step forward with?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
 {"image": "dog160.jpeg", "question": "Which paw is the dog raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
 {"image": "elephant082.jpg", "question": "Which paw of the elephant is slightly raised, preparing to step forward?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
 {"image": "lion06.jpg", "question": "Which paw of the male lion in the picture is at the front of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
-{"image": "horse324.jpeg", "question": "Which front hoof is the horse raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "A"}
-{"image": "elephant211.jpg", "question": "Which paw of the elephant is slightly raised, preparing to step forward?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "A"}
-{"image": "fox07.jpg", "question": "Which paw of the fox is most forward of its body?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "A"}
+{"image": "horse324.jpeg", "question": "Which front hoof is the horse raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
+{"image": "elephant211.jpg", "question": "Which paw of the elephant is slightly raised, preparing to step forward?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
+{"image": "fox07.jpg", "question": "Which paw of the fox is most forward of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
 {"image": "leopard51.jpg", "question": "Which leg of the leopard is most forward of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
 {"image": "elephant134.jpeg", "question": "Which paw of the elephant in the picture is slightly raised, preparing to step forward?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
 {"image": "horse032.jpg", "question": "Which paw of the zebra in the picture is raised?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
 {"image": "bear43.jpg", "question": "Which paw of the polar bear in the picture is the most forward?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
-{"image": "elephant158.jpeg", "question": "Which paw of the baby elephant in the picture is slightly raised forward?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "A"}
-{"image": "bear05.jpg", "question": "Which paw of the black bear in the picture is raised?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "A"}
-{"image": "elephant154.jpeg", "question": "Which leg of the adult elephant in the picture is furthest forward?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "A"}
-{"image": "bear84.jpg", "question": "Which paw of the brown bear in the picture is raised, preparing to take a step forward?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "A"}
-{"image": "dog068.jpg", "question": "Which paw is the dog raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "A"}
-{"image": "dog043.jpg", "question": "Which leg is the dog extending forward in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "A"}
-{"image": "horse415.jpg", "question": "Which hoof of the horse in the picture is at the front of the body?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "A"}
-{"image": "hippo14.jpg", "question": "Which paw is the hippopotamus raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "A"}
-{"image": "elephant170.jpeg", "question": "Which leg of the baby elephant in the picture is the most forward?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "A"}
-{"image": "elephant045.jpg", "question": "Which leg of the baby elephant in the picture is the most forward?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "A"}
-{"image": "dog045.jpg", "question": "Which leg of the dog in the picture is stretched forward?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "A"}
-{"image": "cat100.jpeg", "question": "Which paw of the cat in the picture is in contact with the ground?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "A"}
-{"image": "horse107.jpg", "question": "Which leg of the horse in the picture is at the front of its body?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "A"}
-{"image": "dog069.jpg", "question": "Which leg of the dog in the picture is stretched forward?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "A"}
-{"image": "leopard79.jpg", "question": "Which paw of the leopard in the picture is the most forward?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "A"}
-{"image": "deer09.jpg", "question": "Which front hoof is the giraffe raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "A"}
-{"image": "elephant130.jpg", "question": "Which paw of the elephant in the picture is raised?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
+{"image": "elephant158.jpeg", "question": "Which paw of the baby elephant in the picture is slightly raised forward?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
+{"image": "bear05.jpg", "question": "Which paw of the black bear in the picture is raised?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
+{"image": "elephant154.jpeg", "question": "Which leg of the adult elephant in the picture is furthest forward?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
+{"image": "bear84.jpg", "question": "Which paw of the brown bear in the picture is raised, preparing to take a step forward?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
+{"image": "dog068.jpg", "question": "Which paw is the dog raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
+{"image": "dog043.jpg", "question": "Which leg is the dog extending forward in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
+{"image": "horse415.jpg", "question": "Which hoof of the horse in the picture is at the front of the body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
+{"image": "hippo14.jpg", "question": "Which paw is the hippopotamus raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
+{"image": "elephant170.jpeg", "question": "Which leg of the baby elephant in the picture is the most forward?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
+{"image": "elephant045.jpg", "question": "Which leg of the baby elephant in the picture is the most forward?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
+{"image": "dog045.jpg", "question": "Which leg of the dog in the picture is stretched forward?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
+{"image": "cat100.jpeg", "question": "Which paw of the cat in the picture is in contact with the ground?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
+{"image": "horse107.jpg", "question": "Which leg of the horse in the picture is at the front of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
+{"image": "dog069.jpg", "question": "Which leg of the dog in the picture is stretched forward?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
+{"image": "leopard79.jpg", "question": "Which paw of the leopard in the picture is the most forward?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
+{"image": "deer09.jpg", "question": "Which front hoof is the giraffe raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "A"}
+{"image": "elephant130.jpg", "question": "Which paw of the elephant in the picture is raised?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
 {"image": "elephant021.jpg", "question": "Which paw of the baby elephant in the picture is slightly raised?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
 {"image": "elephant153.jpeg", "question": "Which paw of the elephant on the left side of the picture is slightly raised, preparing to step forward?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
-{"image": "antelope75.jpg", "question": "Which front hoof of the antelope on the right side of the picture is raised backward, preparing to step forward?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "dog150.jpg", "question": "Which paw is the dog raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "apes037.jpg", "question": "Which limb of the animal in the picture is extended forward, grasping a thin stick?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "antelope42.jpg", "question": "Which leg of the antelope in the picture is most forward of its body?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "horse325.jpeg", "question": "Which front hoof is the horse raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "bear39.jpg", "question": "Which paw is the polar bear raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "fox12.jpg", "question": "Which paw of the fox in the picture is at the front of its body?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "cat058.jpg", "question": "Which leg is the cat extending downward in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "horse300.jpeg", "question": "Which of the horse's front hooves is located relatively farthest back in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "dog084.jpg", "question": "Which leg is the dog raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "elephant039.jpg", "question": "Which of the elephant's feet is slightly raised, preparing to step forward?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "cat096.jpg", "question": "Which leg of the cat is raised in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "dog024.jpg", "question": "Which leg of the dog is placed on the person's leg?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "horse271.jpg", "question": "Which of the horse's front hooves is positioned relatively farthest back in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "dog172.jpeg", "question": "Which front leg of the dog is stretched forward?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "horse175.jpg", "question": "Which leg of the horse in the picture is at the front of its body?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "antelope51.jpg", "question": "Which hoof of the antelope in the picture is at the front of its body?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "elephant099.jpg", "question": "Which leg of the elephant in the picture is furthest forward?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "cat044.jpg", "question": "Which leg of the cat is stretched forward in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "dog023.jpg", "question": "Which leg of the dog in the picture is stretched forward to shake hands with the person?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "apes082.jpg", "question": "Which limb of the chimpanzee is raised in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "dog099.jpg", "question": "Which leg is the dog extending forward in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "antelope76.jpg", "question": "Which hoof is the antelope raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "apes004.jpg", "question": "Which limb is the chimpanzee raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "elephant196.jpg", "question": "Which paw is the elephant raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "apes057.jpeg", "question": "Which limb is the monkey extending upward in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "elephant088.jpg", "question": "Which leg of the elephant in the picture is the most forward?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "horse291.jpeg", "question": "Which hoof is the horse raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "tiger32.jpg", "question": "Which leg of the tiger in the picture is most forward?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "leopard48.jpg", "question": "Which of the leopard's front paws is in contact with the ground?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "hippo03.jpg", "question": "Which paw of the hippopotamus in the picture is most forward?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "lynx05.jpg", "question": "Which of the lynx's front legs is upright in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "dog204.jpg", "question": "Which paw is the dog raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "B"}
-{"image": "horse102.jpg", "question": "Which of the horse's legs is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "C"}
-{"image": "elephant101.jpg", "question": "Which of the elephant's legs is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "C"}
-{"image": "horse255.jpeg", "question": "Which hind hoof is the horse raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "C"}
-{"image": "elephant032.jpg", "question": "Which leg of the elephant in the picture is at the rear of its body?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "C"}
-{"image": "ox058.jpg", "question": "Which of the cow's hind hooves is located relatively farthest back in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "C"}
-{"image": "rhino05.jpg", "question": "Which hoof of the rhino in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "C"}
-{"image": "antelope82.jpg", "question": "Which leg of the antelope in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "C"}
-{"image": "horse154.jpg", "question": "Which leg of the horse in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "C"}
-{"image": "dog203.jpg", "question": "Which paw of the dog in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "C"}
-{"image": "sheep10.jpg", "question": "Which hoof of the sheep in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "C"}
-{"image": "horse263.jpeg", "question": "Which of the horse's hind hooves is located relatively farthest back?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "C"}
-{"image": "cat071.jpeg", "question": "Which leg of the cat in the picture is the furthest back of its body?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "C"}
-{"image": "ox038.jpg", "question": "Which of the buffalo's hind hooves is located relatively forward?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "C"}
-{"image": "horse199.jpeg", "question": "Which of the horse's hind hooves is the furthest back of its body?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "C"}
-{"image": "tiger27.jpg", "question": "Which leg of the tiger in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "C"}
-{"image": "lion12.jpg", "question": "Which paw of the lion in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "C"}
-{"image": "ox051.jpg", "question": "Which of the cow's hind hooves is located relatively farthest back in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "C"}
-{"image": "ox009.jpg", "question": "Which hoof of the yak in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "C"}
-{"image": "leopard46.jpg", "question": "Which leg of the leopard in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "C"}
-{"image": "ox075.jpeg", "question": "Which of the cow's hind hooves is relatively forward?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "C"}
+{"image": "antelope75.jpg", "question": "Which front hoof of the antelope on the right side of the picture is raised backward, preparing to step forward?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "dog150.jpg", "question": "Which paw is the dog raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "apes037.jpg", "question": "Which limb of the animal in the picture is extended forward, grasping a thin stick?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "antelope42.jpg", "question": "Which leg of the antelope in the picture is most forward of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "horse325.jpeg", "question": "Which front hoof is the horse raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "bear39.jpg", "question": "Which paw is the polar bear raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "fox12.jpg", "question": "Which paw of the fox in the picture is at the front of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "cat058.jpg", "question": "Which leg is the cat extending downward in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "horse300.jpeg", "question": "Which of the horse's front hooves is located relatively farthest back in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "dog084.jpg", "question": "Which leg is the dog raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "elephant039.jpg", "question": "Which of the elephant's feet is slightly raised, preparing to step forward?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "cat096.jpg", "question": "Which leg of the cat is raised in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "dog024.jpg", "question": "Which leg of the dog is placed on the person's leg?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "horse271.jpg", "question": "Which of the horse's front hooves is positioned relatively farthest back in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "dog172.jpeg", "question": "Which front leg of the dog is stretched forward?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "horse175.jpg", "question": "Which leg of the horse in the picture is at the front of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "antelope51.jpg", "question": "Which hoof of the antelope in the picture is at the front of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "elephant099.jpg", "question": "Which leg of the elephant in the picture is furthest forward?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "cat044.jpg", "question": "Which leg of the cat is stretched forward in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "dog023.jpg", "question": "Which leg of the dog in the picture is stretched forward to shake hands with the person?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "apes082.jpg", "question": "Which limb of the chimpanzee is raised in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "dog099.jpg", "question": "Which leg is the dog extending forward in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "antelope76.jpg", "question": "Which hoof is the antelope raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "apes004.jpg", "question": "Which limb is the chimpanzee raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "elephant196.jpg", "question": "Which paw is the elephant raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "apes057.jpeg", "question": "Which limb is the monkey extending upward in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "elephant088.jpg", "question": "Which leg of the elephant in the picture is the most forward?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "horse291.jpeg", "question": "Which hoof is the horse raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "tiger32.jpg", "question": "Which leg of the tiger in the picture is most forward?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "leopard48.jpg", "question": "Which of the leopard's front paws is in contact with the ground?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "hippo03.jpg", "question": "Which paw of the hippopotamus in the picture is most forward?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "lynx05.jpg", "question": "Which of the lynx's front legs is upright in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "dog204.jpg", "question": "Which paw is the dog raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "B"}
+{"image": "horse102.jpg", "question": "Which of the horse's legs is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
+{"image": "elephant101.jpg", "question": "Which of the elephant's legs is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
+{"image": "horse255.jpeg", "question": "Which rear hoof is the horse raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
+{"image": "elephant032.jpg", "question": "Which leg of the elephant in the picture is at the rear of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
+{"image": "ox058.jpg", "question": "Which of the cow's rear hooves is located relatively farthest back in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
+{"image": "rhino05.jpg", "question": "Which hoof of the rhino in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
+{"image": "antelope82.jpg", "question": "Which leg of the antelope in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
+{"image": "horse154.jpg", "question": "Which leg of the horse in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
+{"image": "dog203.jpg", "question": "Which paw of the dog in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
+{"image": "sheep10.jpg", "question": "Which hoof of the sheep in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
+{"image": "horse263.jpeg", "question": "Which of the horse's rear hooves is located relatively farthest back?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
+{"image": "cat071.jpeg", "question": "Which leg of the cat in the picture is the furthest back of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
+{"image": "ox038.jpg", "question": "Which of the buffalo's rear hooves is located relatively forward?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
+{"image": "horse199.jpeg", "question": "Which of the horse's rear hooves is the furthest back of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
+{"image": "tiger27.jpg", "question": "Which leg of the tiger in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
+{"image": "lion12.jpg", "question": "Which paw of the lion in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
+{"image": "ox051.jpg", "question": "Which of the cow's rear hooves is located relatively farthest back in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
+{"image": "ox009.jpg", "question": "Which hoof of the yak in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
+{"image": "leopard46.jpg", "question": "Which leg of the leopard in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
+{"image": "ox075.jpeg", "question": "Which of the cow's rear hooves is relatively forward?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
 {"image": "horse133.jpg", "question": "Which leg of the horse in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
-{"image": "ox132.jpeg", "question": "Which of the cow's hind hooves is positioned relatively far back in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
+{"image": "ox132.jpeg", "question": "Which of the cow's rear hooves is positioned relatively far back in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
 {"image": "elephant186.jpg", "question": "Which paw of the elephant on the left side of the picture is slightly raised, preparing to step forward?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
 {"image": "ox057.jpg", "question": "Which paw of the cow is raised in the picture, preparing to step forward?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
-{"image": "leopard54.jpg", "question": "Which leg of the leopard in the picture is the furthest back?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "C"}
-{"image": "lynx16.jpg", "question": "Which paw is the lynx raising in the picture, preparing to step forward?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "C"}
-{"image": "horse321.jpeg", "question": "Which of the horse's hind hooves is located relatively forward?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "C"}
+{"image": "leopard54.jpg", "question": "Which leg of the leopard in the picture is the furthest back?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
+{"image": "lynx16.jpg", "question": "Which paw is the lynx raising in the picture, preparing to step forward?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
+{"image": "horse321.jpeg", "question": "Which of the horse's rear hooves is located relatively forward?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
 {"image": "bear16.jpg", "question": "Which paw of the brown bear in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
 {"image": "elephant063.jpg", "question": "Which paw of the baby elephant in the picture is slightly raised backward, preparing to step forward?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
 {"image": "lynx20.jpg", "question": "Which paw of the lynx in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
@@ -105,32 +105,32 @@
 {"image": "dog191.jpg", "question": "Which paw of the dog in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
 {"image": "dog071.jpg", "question": "Which leg of the dog in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
 {"image": "deer21.jpg", "question": "Which hoof of the giraffe in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
-{"image": "leopard27.jpg", "question": "Which leg of the leopard in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "C"}
-{"image": "ox016.jpg", "question": "Which hoof of the yak in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "D"}
-{"image": "horse158.jpg", "question": "Which leg of the horse in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "D"}
-{"image": "antelope54.jpg", "question": "Which hoof of the antelope in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "D"}
-{"image": "deer13.jpg", "question": "Which hoof of the giraffe in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "D"}
-{"image": "pig01.jpg", "question": "Which hoof of the pig in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "D"}
-{"image": "leopard49.jpg", "question": "Which leg of the leopard in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "D"}
-{"image": "horse215.jpeg", "question": "Which leg of the horse in the picture is the furthest back on its body?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "D"}
-{"image": "ox074.jpeg", "question": "Which of the cow's hind hooves is located relatively farthest back in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "D"}
-{"image": "elephant177.jpg", "question": "Which leg of the elephant on the left side of the picture is the furthest back on its body?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "D"}
+{"image": "leopard27.jpg", "question": "Which leg of the leopard in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "C"}
+{"image": "ox016.jpg", "question": "Which hoof of the yak in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
+{"image": "horse158.jpg", "question": "Which leg of the horse in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
+{"image": "antelope54.jpg", "question": "Which hoof of the antelope in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
+{"image": "deer13.jpg", "question": "Which hoof of the giraffe in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
+{"image": "pig01.jpg", "question": "Which hoof of the pig in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
+{"image": "leopard49.jpg", "question": "Which leg of the leopard in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
+{"image": "horse215.jpeg", "question": "Which leg of the horse in the picture is the furthest back on its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
+{"image": "ox074.jpeg", "question": "Which of the cow's rear hooves is located relatively farthest back in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
+{"image": "elephant177.jpg", "question": "Which leg of the elephant on the left side of the picture is the furthest back on its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
 {"image": "ox021.jpg", "question": "Which hoof of the yak in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
 {"image": "rhino11.jpg", "question": "Which hoof of the rhino in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
-{"image": "horse284.jpeg", "question": "Which of the horse's hind hooves is located relatively farthest back in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
-{"image": "horse027.jpg", "question": "Which leg of the zebra in the picture is at the rear end of its body?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "D"}
-{"image": "horse395.jpg", "question": "Which of the horse's hind hooves is located relatively forward?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "D"}
-{"image": "fox15.jpg", "question": "Which paw of the fox in the picture is at the rear end of its body?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "D"}
-{"image": "ox022.jpg", "question": "Which of the yak's hind hooves is located relatively farthest back in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
+{"image": "horse284.jpeg", "question": "Which of the horse's rear hooves is located relatively farthest back in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
+{"image": "horse027.jpg", "question": "Which leg of the zebra in the picture is at the rear end of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
+{"image": "horse395.jpg", "question": "Which of the horse's rear hooves is located relatively forward?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
+{"image": "fox15.jpg", "question": "Which paw of the fox in the picture is at the rear end of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
+{"image": "ox022.jpg", "question": "Which of the yak's rear hooves is located relatively farthest back in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
 {"image": "dog029.jpg", "question": "Which leg of the dog in the picture is at the rear of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
-{"image": "sheep64.jpg", "question": "Which of the sheep's hind hooves is located farthest back in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
-{"image": "horse247.jpeg", "question": "Which hind hoof is the horse raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
+{"image": "sheep64.jpg", "question": "Which of the sheep's rear hooves is located farthest back in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
+{"image": "horse247.jpeg", "question": "Which rear hoof is the horse raising in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
 {"image": "ox001.jpg", "question": "Which hoof of the yak in the picture is at the rearmost side of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
 {"image": "wolf0032.jpg", "question": "Which leg of the wolf in the picture is at the rearmost side of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
 {"image": "horse009.jpg", "question": "Which leg of the horse in the picture is at the rearmost side of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
 {"image": "wolf0027.jpg", "question": "Which paw of the wolf in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
 {"image": "elephant152.jpeg", "question": "Which paw of the elephant in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
-{"image": "horse241.jpeg", "question": "Which of the horse's hind hooves is relatively forward?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
+{"image": "horse241.jpeg", "question": "Which of the horse's rear hooves is relatively forward?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
 {"image": "horse031.jpg", "question": "Which leg of the zebra in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left back", "D. Right back"], "answer": "D"}
 {"image": "elephant168.jpeg", "question": "Which leg of the large elephant in the picture is at the rear of its body?", "options": ["A. Left front", "B. Right front", "C. Left back", "D. Right back"], "answer": "D"}
 {"image": "hippo19.jpg", "question": "Which foot of the hippopotamus in the picture is at the rear of its body?", "options": ["A. Left front", "B. Right front", "C. Left back", "D. Right back"], "answer": "D"}
@@ -139,8 +139,8 @@
 {"image": "elephant114.jpg", "question": "Which leg of the elephant in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
 {"image": "elephant091.jpg", "question": "Which leg of the elephant in the picture is at the rearmost part of its body?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
 {"image": "deer48.jpg", "question": "Which leg of the deer is stretched out to the side?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
-{"image": "horse382.jpg", "question": "Which of the horse's hind hooves is located relatively farthest back in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
-{"image": "ox098.jpeg", "question": "Which of the cow's hind hooves is located farthest back in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
+{"image": "horse382.jpg", "question": "Which of the horse's rear hooves is located relatively farthest back in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
+{"image": "ox098.jpeg", "question": "Which of the cow's rear hooves is located farthest back in the picture?", "options": ["A. Left front", "B. Right front", "C. Left rear", "D. Right rear"], "answer": "D"}
 {"image": "animal_eye_one022.jpg", "question": "Only one of the rabbit's eyes is shown in the picture. Which eye is it?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "animal_eye_odd010.jpg", "question": "Which eye of the dog in the picture is blue?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "animal_eye_wink023.jpg", "question": "Which eye of the cat in the picture is open?", "options": ["A. Left", "B. Right"], "answer": "A"}
@@ -248,7 +248,7 @@
 {"image": "human_lower_limb0036.jpg", "question": "Which leg of the athlete in the picture is in front of his body?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_lower_limb0064.jpg", "question": "Which foot is the woman on the left stepping forward with?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_lower_limb0484.jpg", "question": "Which foot of the woman surfing on the left is in front of the surfboard?", "options": ["A. Left", "B. Right"], "answer": "A"}
-{"image": "human_lower_limb1113.jpg", "question": "Which foot of the ice skater is behind?", "options": ["A. Left", "B. Right"], "answer": "A"}
+{"image": "human_lower_limb1113.jpg", "question": "Which foot of the ice skater is berear?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_lower_limb1236.jpg", "question": "Which leg of the roller skater is bent?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_upper_limb0010.jpg", "question": "With which hand is the woman in the picture holding the wine glass?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_lower_limb0365.jpg", "question": "On which foot of the batsman's foot is the heel clearly raised and the toe touching the ground?", "options": ["A. Left", "B. Right"], "answer": "A"}
@@ -260,7 +260,7 @@
 {"image": "human_eye206.jpg", "question": "Which eye of the woman in the picture is closed?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_upper_limb0811.jpg", "question": "Which hand is the man holding the snowboard in the picture?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_lower_limb0172.jpg", "question": "Which leg of the batsman is in front of him in the picture?", "options": ["A. Left", "B. Right"], "answer": "A"}
-{"image": "human_lower_limb0148.jpg", "question": "Which foot of the pitcher is behind him in the picture?", "options": ["A. Left", "B. Right"], "answer": "A"}
+{"image": "human_lower_limb0148.jpg", "question": "Which foot of the pitcher is berear him in the picture?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_upper_limb0772.jpg", "question": "Which hand of the man in the picture is on his phone?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_upper_limb0553.jpg", "question": "Which hand of the adult in the picture is holding the cup?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_upper_limb0847.jpg", "question": "Which hand of the man in the picture is making the \"V\" sign?", "options": ["A. Left", "B. Right"], "answer": "A"}
@@ -275,7 +275,7 @@
 {"image": "human_lower_limb0323.jpg", "question": "Which leg of the skater in the picture is extended to the side and straightened?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_lower_limb1866.jpg", "question": "Which leg of the figure skater in the picture is bent and kneeling on the ice?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_upper_limb1381.jpg", "question": "Which hand of the boy in the picture is holding the toothbrush?", "options": ["A. Left", "B. Right"], "answer": "A"}
-{"image": "human_lower_limb0768.jpg", "question": "Which foot of the woman in the picture is behind her body?", "options": ["A. Left", "B. Right"], "answer": "A"}
+{"image": "human_lower_limb0768.jpg", "question": "Which foot of the woman in the picture is berear her body?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_ear0151.jpg", "question": "Which ear of the man is shown in the picture?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_upper_limb0664.jpg", "question": "Which hand of the rightmost person in the picture is placed next to his ear?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_lower_limb1940.jpg", "question": "Which foot is the figure skater lifting upward and backward in the picture?", "options": ["A. Left", "B. Right"], "answer": "A"}
@@ -314,7 +314,7 @@
 {"image": "human_upper_limb0861.jpg", "question": "Which hand of the woman in the picture is on the table?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_upper_limb0348.jpg", "question": "Which hand of the boy in the picture is extended forward with the palm open?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_lower_limb1768.jpg", "question": "Which foot of the figure skater in the picture is in front?", "options": ["A. Left", "B. Right"], "answer": "A"}
-{"image": "human_upper_limb0926.jpg", "question": "Which hand is the man holding behind the surfboard in the picture?", "options": ["A. Left", "B. Right"], "answer": "A"}
+{"image": "human_upper_limb0926.jpg", "question": "Which hand is the man holding berear the surfboard in the picture?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_lower_limb1432.jpg", "question": "Which foot of the leftmost athlete is raised backward with the toes pointed downward?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_upper_limb1716.jpg", "question": "Which hand is the athlete using to support the wheelchair in the picture?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_lower_limb1498.jpg", "question": "Which foot is the athlete stepping forward in the picture?", "options": ["A. Left", "B. Right"], "answer": "A"}
@@ -328,7 +328,7 @@
 {"image": "human_lower_limb0838.jpg", "question": "Which foot of the man riding a bicycle in the picture is in contact with the ground?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_upper_limb1015.jpg", "question": "Which arm of the female athlete is raised high in the air?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_lower_limb1706.jpg", "question": "Which foot of the figure skater is on tiptoe in the picture?", "options": ["A. Left", "B. Right"], "answer": "A"}
-{"image": "human_lower_limb1076.jpg", "question": "Which foot of the surfer is behind the surfboard in the picture?", "options": ["A. Left", "B. Right"], "answer": "A"}
+{"image": "human_lower_limb1076.jpg", "question": "Which foot of the surfer is berear the surfboard in the picture?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_upper_limb0127.jpg", "question": "Which arm of the woman in the picture is raised high in the air and straight?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_lower_limb0223.jpg", "question": "Which leg of the batsman is out in front of him and straight?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_lower_limb1408.jpg", "question": "Which foot is the rightmost athlete preparing to step forward?", "options": ["A. Left", "B. Right"], "answer": "A"}
@@ -389,7 +389,7 @@
 {"image": "human_ear0199.jpg", "question": "Which ear of the man is shown in the picture?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_ear0120.jpg", "question": "Which ear of the woman is shown in the picture?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_lower_limb1968.jpg", "question": "Which foot is the athlete stepping forward in the picture?", "options": ["A. Left", "B. Right"], "answer": "B"}
-{"image": "human_lower_limb1767.jpg", "question": "Which foot of the figure skater is behind?", "options": ["A. Left", "B. Right"], "answer": "B"}
+{"image": "human_lower_limb1767.jpg", "question": "Which foot of the figure skater is berear?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_upper_limb1810.jpg", "question": "Which hand is the athlete holding the ball in the picture?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_lower_limb1099.jpg", "question": "Which foot of the surfer in the picture is in front of the surfboard, in the same direction of travel?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_upper_limb1242.jpg", "question": "Which hand of the man in the picture is in his jacket pocket?", "options": ["A. Left", "B. Right"], "answer": "B"}
@@ -402,7 +402,7 @@
 {"image": "human_lower_limb1497.jpg", "question": "Which foot of the athlete in the picture has its heel off the ground and its toes touching the ground?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_upper_limb0506.jpg", "question": "Which hand of the woman in the picture is holding the wine glass?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_lower_limb0626.jpg", "question": "Which foot of the girl in the picture is kicking forward?", "options": ["A. Left", "B. Right"], "answer": "B"}
-{"image": "human_lower_limb1072.jpg", "question": "Which foot of the surfer in the picture is behind the surfboard?", "options": ["A. Left", "B. Right"], "answer": "B"}
+{"image": "human_lower_limb1072.jpg", "question": "Which foot of the surfer in the picture is berear the surfboard?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_upper_limb0065.jpg", "question": "Which hand is the man in the picture holding the wine glass?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_lower_limb1816.jpg", "question": "Which foot of the female figure skater in the picture is in front?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_eye222.jpg", "question": "Which eye of the man in the picture is closed?", "options": ["A. Left", "B. Right"], "answer": "B"}
@@ -446,7 +446,7 @@
 {"image": "human_upper_limb1658.jpg", "question": "Which hand of the woman in the picture is holding the racket?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_ear0487.jpg", "question": "Which ear of the man is shown in the picture?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_lower_limb0697.jpg", "question": "Which foot of the surfer in the picture is in front of the surfboard?", "options": ["A. Left", "B. Right"], "answer": "B"}
-{"image": "human_upper_limb0595.jpg", "question": "Which hand does the person behind the bride hold the umbrella with?", "options": ["A. Left", "B. Right"], "answer": "B"}
+{"image": "human_upper_limb0595.jpg", "question": "Which hand does the person berear the bride hold the umbrella with?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_upper_limb1787.jpg", "question": "Which hand does the athlete use to throw the ball?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_lower_limb1015.jpg", "question": "Which foot of the skateboarder in the picture is at the front of the board, in line with the direction of travel?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_upper_limb0148.jpg", "question": "Which hand of the girl in the picture is caressing the horse's body?", "options": ["A. Left", "B. Right"], "answer": "B"}
@@ -485,10 +485,10 @@
 {"image": "human_lower_limb1632.jpg", "question": "Which leg is the athlete holding the football stepping forward in the picture?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_upper_limb1331.jpg", "question": "Which arm of the man in the picture is bent?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_lower_limb1800.jpg", "question": "Which foot of the female figure skater is in contact with the ice?", "options": ["A. Left", "B. Right"], "answer": "B"}
-{"image": "human_lower_limb0086.jpg", "question": "Which foot of the man behind the dog in the picture is reaching forward?", "options": ["A. Left", "B. Right"], "answer": "B"}
+{"image": "human_lower_limb0086.jpg", "question": "Which foot of the man berear the dog in the picture is reaching forward?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_lower_limb0803.jpg", "question": "In the picture, which foot of the batsman has its heel clearly raised and its toes touching the ground?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_upper_limb0661.jpg", "question": "In the picture, which hand of the girl on the right is holding the remote control?", "options": ["A. Left", "B. Right"], "answer": "B"}
-{"image": "human_lower_limb1095.jpg", "question": "In the picture, which foot of the surfer is behind the surfboard?", "options": ["A. Left", "B. Right"], "answer": "B"}
+{"image": "human_lower_limb1095.jpg", "question": "In the picture, which foot of the surfer is berear the surfboard?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_ear0365.jpg", "question": "In the picture, which ear of the man is shown?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_upper_limb1000.jpg", "question": "Which hand of the child in the picture is in the \"V\" sign?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_lower_limb1013.jpg", "question": "Which foot of the pitcher is raised back with the toes pointing down?", "options": ["A. Left", "B. Right"], "answer": "B"}
