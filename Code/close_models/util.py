@@ -35,7 +35,6 @@ def init_json(file_path):
 def construct_few_shot(entry, num_shot, model, mode="random"):
     global train_data
 
-    # 对图片相同的问题取相同的ICL例子 用于circular模式
     icl_file = os.path.join(ICL_PATH, f'{model}_{num_shot}shot.json')
     if not os.path.exists(icl_file):
         init_json(icl_file)
@@ -51,7 +50,7 @@ def construct_few_shot(entry, num_shot, model, mode="random"):
         {"type": "text", "text": f"\nQuestion: {entry['question']}, Options: {'; '.join(entry['options'])}.\nOutput:"}
     ]
     
-    fewshot_prompt = f"Given the following {num_shot} examples to learn the spatial relation reasoning task:\n" if num_shot else ""
+    fewshot_prompt = f"Given the following {num_shot} examples to learn the visual reasoning task:\n" if num_shot else ""
     content = [
         {"type": "text", "text": role_prompt + fewshot_prompt},
     ]
