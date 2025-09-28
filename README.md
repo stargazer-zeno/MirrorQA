@@ -46,7 +46,7 @@ The following figures list some classic examples in our dataset.
 ###  Detail Information
 
 As reported in the following table, MirrorQA contains 5,549samples, divided into training, validation, and test sets according to a 7:1:2 ratio.And ensure that the number of correct answers of the same type and dimension such as (H.Left and H.Right) is as consistent as possible.
-<br>All the splited data sets are in the directory **_(Dataset/jsonl_files)_**. 
+<br>All the splited data sets are in the directory **_(Dataset/vqa_files)_**. 
 <br>
 
 _Due to the fact that only redirecting to the specified file is valid in anonymous links, redirecting to the specified directory is invalid. Therefore, we use bold and italicized font to indicate the markings of all specified directories, making it easier for reviewers to search. Thank you!_
@@ -61,14 +61,12 @@ We manually classified the raw data into categories, with human samples categori
 
 ![MirrorQA Classification](Illustrations/classification/classification.png)
 
-<br>
-You can find our dataset through the following path **_(Dataset/dataset)_** for more details.
-<br>
+
 
 ## 2 Access MirrorQA
 ### Download dataset
 
-Our dataset has been officially released on the Github. It is available at https://github.com/stargazer-zeno/MirrorQA/tree/main/Dataset.  The original images are saved in the **_(Dataset/images)_** directory, and the annotated data are saved in the **_(Dataset/jsonl_files)_** directory
+Our dataset has been officially released on the Github. It is available at https://github.com/stargazer-zeno/MirrorQA/tree/main/Dataset.  The original images are saved in the **_(Dataset/images)_** directory, and the annotated data are saved in the **_(Dataset/vqa_files)_** directory
 
 
 ### Data Format
