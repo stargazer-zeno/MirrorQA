@@ -10,7 +10,6 @@
     ·
     <a href="https://anonymous.4open.science/r/Anonymous-AC8E/LICENSE">license</a>
   </p>
-
 </p>
 
 
@@ -40,7 +39,7 @@
 
 
 ## 1 Overview
-**MirrorQA** is a **manually annotated** dataset using multiple-choice question & answering (**QA**) to comprehensively evaluate the performance of **multimodal large language models(MLLMs)** on the specific task of **==mirror-based orientation reasoning==**. We extracted 5,549 images from several human and animal datasets(e.g., COCO, Animal-10K,etc)  and carefully constructed a body part recognition question for each image. The dataset covers 28 human activities and 43 animal categories. To ensure benchmark quality, we established clear annotation guidelines and a comprehensive quality control process for MirrorQA. These measures ensures a balanced distribution of correct answers across different dimensions and eliminates questions that can be answered using only the model's prior knowledge, without relying on the image.
+**MirrorQA** is a **manually annotated** dataset using multiple-choice question & answering (**QA**) to comprehensively evaluate the performance of **multimodal large language models(MLLMs)** on the specific task of **mirror-based orientation reasoning**. We extracted 5,549 images from several human and animal datasets(e.g., COCO, Animal-10K,etc)  and carefully constructed a body part recognition question for each image. The dataset covers 28 human activities and 43 animal categories. To ensure benchmark quality, we established clear annotation guidelines and a comprehensive quality control process for MirrorQA. These measures ensures a balanced distribution of correct answers across different dimensions and eliminates questions that can be answered using only the model's prior knowledge, without relying on the image.
 
 ### Examples
 The following figures list some classic examples in our dataset. 
@@ -49,7 +48,7 @@ The following figures list some classic examples in our dataset.
 
 ###  Detail Information
 
-As detailed in the following table, MirrorQA contains 5,549 samples, split into training, ==validation==, and test sets with a 7:1:2 ratio.We also ensured that the number of correct answers for symmetrical types and dimensions (e.g., H.Left and H.Right) is as balanced as possible.
+As detailed in the following table, MirrorQA contains 5,549 samples, split into training, validation, and test sets with a 7:1:2 ratio.We also ensured that the number of correct answers for symmetrical types and dimensions (e.g., H.Left and H.Right) is as balanced as possible.
 <br>All the split data sets are in the directory **_(Dataset/vqa_files)_**. 
 <br>
 
@@ -70,7 +69,7 @@ We manually classified the raw data into categories, with human samples categori
 ## 2 Access MirrorQA
 ### Download dataset
 
-Our dataset has been officially released on the Github. It is available at https://github.com/stargazer-zeno/MirrorQA/tree/main/Dataset.  The original images are saved in the **_(Dataset/images)_** directory, and the annotated data are saved in the **_(Dataset/vqa_files)_** directory.
+Our dataset has been officially released on the Github. It is available at [MirrorQA](https://anonymous.4open.science/r/Anonymous-AC8E/).  The original images are saved in the **_(Dataset/images)_** directory, and the annotated data are saved in the **_(Dataset/vqa_files)_** directory.
 
 
 ### Data Format
