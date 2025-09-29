@@ -1,3 +1,33 @@
+{"image": "human_eye134.jpg", "question": "Which eye of the man in the picture is open?", "options": ["A. Left", "B. Right"], "answer": "A"}
+{"image": "human_eye227.jpg", "question": "Which eye of the person in the picture is open?", "options": ["A. Left", "B. Right"], "answer": "A"}
+{"image": "human_eye100.jpg", "question": "Which eye of the woman in the picture is closed?", "options": ["A. Left", "B. Right"], "answer": "B"}
+{"image": "human_eye109.jpg", "question": "Which eye of the woman in the picture is open?", "options": ["A. Left", "B. Right"], "answer": "B"}
+{"image": "human_eye030.jpg", "question": "Which eye of the woman in the picture is closed?", "options": ["A. Left", "B. Right"], "answer": "B"}
+{"image": "human_ear0032.jpg", "question": "Which ear of the man is shown in the picture?", "options": ["A. Left", "B. Right"], "answer": "A"}
+{"image": "human_ear0257.jpg", "question": "Which ear of the man is shown in the picture?", "options": ["A. Left", "B. Right"], "answer": "A"}
+{"image": "human_ear_earring064.jpg", "question": "Which ear of the woman in the picture is wearing an earring?", "options": ["A. Left", "B. Right"], "answer": "B"}
+{"image": "human_ear_earring009.jpg", "question": "Which ear of the woman in the picture is wearing an earring?", "options": ["A. Left", "B. Right"], "answer": "B"}
+{"image": "human_ear0070.jpg", "question": "Which ear of the woman is shown in the picture?", "options": ["A. Left", "B. Right"], "answer": "B"}
+{"image": "human_upper_limb0260.jpg", "question": "Which hand of the man in the picture is holding the balloon from below?", "options": ["A. Left", "B. Right"], "answer": "A"}
+{"image": "human_upper_limb1460.jpg", "question": "Which wrist of the man in the picture is wearing a bracelet?", "options": ["A. Left", "B. Right"], "answer": "A"}
+{"image": "human_upper_limb0156.jpg", "question": "Which hand of the girl in the picture is holding the pizza?", "options": ["A. Left", "B. Right"], "answer": "B"}
+{"image": "human_upper_limb1051.jpg", "question": "Which hand of the child in the picture is holding the phone?", "options": ["A. Left", "B. Right"], "answer": "B"}
+{"image": "human_upper_limb1365.jpg", "question": "Which hand of the man in the picture is holding the phone?", "options": ["A. Left", "B. Right"], "answer": "B"}
+{"image": "human_lower_limb1926.jpg", "question": "Which foot is the figure skater raising in the picture?", "options": ["A. Left", "B. Right"], "answer": "A"}
+{"image": "human_lower_limb0424.jpg", "question": "Which foot is the person stepping forward in the picture?", "options": ["A. Left", "B. Right"], "answer": "A"}
+{"image": "human_lower_limb0420.jpg", "question": "Which leg of the tennis player in the picture is raised backwards, with the foot suspended in the air and the toes pointing downwards?", "options": ["A. Left", "B. Right"], "answer": "B"}
+{"image": "human_lower_limb0535.jpg", "question": "Which foot of the girl in the picture is stepping forward?", "options": ["A. Left", "B. Right"], "answer": "B"}
+{"image": "human_lower_limb0005.jpg", "question": "Which leg of the woman in the picture is bent in front of her body?", "options": ["A. Left", "B. Right"], "answer": "A"}
+{"image": "animal_eye_wink062.jpg", "question": "Which eye of the cat in the picture is closed?", "options": ["A. Left", "B. Right"], "answer": "A"}
+{"image": "animal_eye_one090.jpg", "question": "Only one eye of the horse is shown in the picture. Which eye is it?", "options": ["A. Left", "B. Right"], "answer": "A"}
+{"image": "animal_eye_odd019.jpg", "question": "Which eye of the dog in the picture is black?", "options": ["A. Left", "B. Right"], "answer": "A"}
+{"image": "animal_eye_one075.jpg", "question": "Only one eye of the flamingo is shown in the picture. Which eye is it?", "options": ["A. Left", "B. Right"], "answer": "A"}
+{"image": "animal_eye_one051.jpg", "question": "Only one eye of the bird is shown in the picture. Which eye is it?", "options": ["A. Left", "B. Right"], "answer": "A"}
+{"image": "animal_ear070.jpg", "question": "Which ear of the cow in the picture has the tag?", "options": ["A. Left", "B. Right"], "answer": "A"}
+{"image": "animal_ear028.jpg", "question": "Which ear of the cow has the tag?", "options": ["A. Left", "B. Right"], "answer": "A"}
+{"image": "animal_ear080.jpg", "question": "Which ear of the sheep has a tag?", "options": ["A. Left", "B. Right"], "answer": "B"}
+{"image": "animal_ear053.jpg", "question": "Which ear of the cow has a tag?", "options": ["A. Left", "B. Right"], "answer": "B"}
+{"image": "animal_ear029.jpg", "question": "Which ear of the sheep has the tag?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "leopard76.jpg", "question": "Which paw of the leopard in the picture is the most forward?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "A"}
 {"image": "cat091.jpg", "question": "Which front leg of the cat is stepping forward in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "A"}
 {"image": "cat076.jpg", "question": "Which leg of the cat is extending upward in the picture?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "A"}
@@ -973,15 +1003,7 @@
 {"image": "wolf0024.jpg", "question": "Which of the wolf's hind paws is closer to the front?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "D"}
 {"image": "horse237.jpeg", "question": "Which of the horse's hind hooves is closer to the rear end?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "D"}
 {"image": "horse223.jpeg", "question": "Which hind hoof is the horse raising in the picture, preparing to step forward?", "options": ["A. Left front", "B. Right front", "C. Left hind", "D. Right hind"], "answer": "D"}
-{"image": "animal_eye_wink062.jpg", "question": "Which eye of the cat in the picture is closed?", "options": ["A. Left", "B. Right"], "answer": "A"}
-{"image": "animal_eye_one090.jpg", "question": "Only one eye of the horse is shown in the picture. Which eye is it?", "options": ["A. Left", "B. Right"], "answer": "A"}
-{"image": "animal_eye_odd019.jpg", "question": "Which eye of the dog in the picture is black?", "options": ["A. Left", "B. Right"], "answer": "A"}
-{"image": "animal_eye_one075.jpg", "question": "Only one eye of the flamingo is shown in the picture. Which eye is it?", "options": ["A. Left", "B. Right"], "answer": "A"}
-{"image": "animal_eye_one051.jpg", "question": "Only one eye of the bird is shown in the picture. Which eye is it?", "options": ["A. Left", "B. Right"], "answer": "A"}
-{"image": "animal_ear070.jpg", "question": "Which ear of the cow in the picture has the tag?", "options": ["A. Left", "B. Right"], "answer": "A"}
-{"image": "animal_ear028.jpg", "question": "Which ear of the cow has the tag?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "chicken31.jpeg", "question": "Which claw of the chicken is in front?", "options": ["A. Left", "B. Right"], "answer": "A"}
-{"image": "animal_ear029.jpg", "question": "Which ear of the sheep has the tag?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "animal_eye_wink011.jpg", "question": "Which eye of the owl is open?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "animal_eye_one068.jpg", "question": "Only one eye of the sheep is shown in the picture. Which eye is it?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "animal_eye_one061.jpg", "question": "Only one eye of the eagle is shown in the picture. Which eye is not shown?", "options": ["A. Left", "B. Right"], "answer": "A"}
@@ -1339,21 +1361,16 @@
 {"image": "chicken46.jpg", "question": "Which paw of the chicken is stepping forward in the picture?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "animal_eye_odd036.jpg", "question": "Which eye of the cat in the picture is yellow?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "animal_eye_wink037.jpg", "question": "Which eye of the cat in the picture is closed?", "options": ["A. Left", "B. Right"], "answer": "B"}
-{"image": "human_lower_limb1926.jpg", "question": "Which foot is the figure skater raising in the picture?", "options": ["A. Left", "B. Right"], "answer": "A"}
-{"image": "human_lower_limb0424.jpg", "question": "Which foot is the person stepping forward in the picture?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_upper_limb1812.jpg", "question": "Which hand does the goalie extend to catch the water polo ball in the picture?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_lower_limb0193.jpg", "question": "Which leg of the batsman is in front of him in the picture?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_ear0033.jpg", "question": "Which ear of the man is shown in the picture?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_upper_limb0034.jpg", "question": "Which hand is the woman holding the comb in the picture?", "options": ["A. Left", "B. Right"], "answer": "A"}
-{"image": "human_lower_limb0005.jpg", "question": "Which leg of the woman in the picture is bent in front of her body?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_lower_limb1215.jpg", "question": "Which leg of the player holding the football in the picture is raised and bent backward, with the foot in the air and the toes pointing downward?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_eye240.jpg", "question": "Which eye of the man in the picture is closed?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_lower_limb0404.jpg", "question": "Which leg of the girl on the far left of the picture is raised and bent backward, with the foot in the air and the toes pointing downward?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_lower_limb1006.jpg", "question": "Which foot of the person wearing a tie in the picture is stepping forward?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_upper_limb1555.jpg", "question": "Which of the girl's hands is open, palm facing up?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_lower_limb0251.jpg", "question": "Which foot is the woman raising, preparing to step forward?", "options": ["A. Left", "B. Right"], "answer": "A"}
-{"image": "human_upper_limb0260.jpg", "question": "Which hand of the man in the picture is holding the balloon from below?", "options": ["A. Left", "B. Right"], "answer": "A"}
-{"image": "human_upper_limb1460.jpg", "question": "Which wrist of the man in the picture is wearing a bracelet?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_eye233.jpg", "question": "Which eye of the man in the picture is closed?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_lower_limb1569.jpg", "question": "Which leg is the athlete stepping forward in the picture?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_upper_limb1406.jpg", "question": "Which hand of the girl in the picture is on the computer?", "options": ["A. Left", "B. Right"], "answer": "A"}
@@ -1362,8 +1379,6 @@
 {"image": "human_upper_limb0303.jpg", "question": "Which hand of the man in the gray shirt is raised high to catch the Frisbee?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_lower_limb1401.jpg", "question": "Which foot of the athlete in the red jersey is in contact with the ground?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_upper_limb1659.jpg", "question": "Which hand of the man in the image is wearing a baseball glove?", "options": ["A. Left", "B. Right"], "answer": "A"}
-{"image": "human_ear0032.jpg", "question": "Which ear of the man is shown in the picture?", "options": ["A. Left", "B. Right"], "answer": "A"}
-{"image": "human_ear0257.jpg", "question": "Which ear of the man is shown in the picture?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_eye133.jpg", "question": "Which eye of the girl in the picture is closed?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_upper_limb1620.jpg", "question": "Which wrist of the man in the picture is wearing the green wristband?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_lower_limb1455.jpg", "question": "Which foot of the athlete in the blue gi is suspended in the air?", "options": ["A. Left", "B. Right"], "answer": "A"}
@@ -1382,8 +1397,6 @@
 {"image": "human_lower_limb1413.jpg", "question": "Which foot is the athlete raising in the picture?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_upper_limb1732.jpg", "question": "Which arm is the athlete on the left raising to defend?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_lower_limb1003.jpg", "question": "Which foot of the surfer in the picture is in front of the surfboard, in the same direction of travel?", "options": ["A. Left", "B. Right"], "answer": "A"}
-{"image": "human_eye134.jpg", "question": "Which eye of the man in the picture is open?", "options": ["A. Left", "B. Right"], "answer": "A"}
-{"image": "human_eye227.jpg", "question": "Which eye of the person in the picture is open?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_lower_limb1310.jpg", "question": "Which foot of the climber in the picture is on top, with the knee bent?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_lower_limb1487.jpg", "question": "Which foot of the athlete in the picture is stepping forward?", "options": ["A. Left", "B. Right"], "answer": "A"}
 {"image": "human_lower_limb0353.jpg", "question": "With which foot is the adult in the picture stepping forward?", "options": ["A. Left", "B. Right"], "answer": "A"}
@@ -2652,8 +2665,6 @@
 {"image": "human_lower_limb1093.jpg", "question": "Which foot of the surfer in the picture is in front of the surfboard, in the same direction of travel?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_upper_limb0986.jpg", "question": "Which hand of the man on the right in the picture is holding a tennis racket?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_lower_limb1848.jpg", "question": "Which leg is the female figure skater raising forward in the picture?", "options": ["A. Left", "B. Right"], "answer": "B"}
-{"image": "human_ear_earring064.jpg", "question": "Which ear of the woman in the picture is wearing an earring?", "options": ["A. Left", "B. Right"], "answer": "B"}
-{"image": "human_ear_earring009.jpg", "question": "Which ear of the woman in the picture is wearing an earring?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_lower_limb1056.jpg", "question": "Which foot of the surfer in the picture is in front of the surfboard, in line with the direction of travel?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_upper_limb0531.jpg", "question": "Which hand of the woman in the picture is holding the racket?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_lower_limb0437.jpg", "question": "Which foot of the little girl in the picture is kicking forward?", "options": ["A. Left", "B. Right"], "answer": "B"}
@@ -3633,8 +3644,6 @@
 {"image": "human_upper_limb1922.jpg", "question": "Which hand of the man in the picture is not holding a tennis racket?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_ear0466.jpg", "question": "Which ear of the man is shown in the picture?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_upper_limb0267.jpg", "question": "Which hand of the boy in the picture is holding a toothbrush?", "options": ["A. Left", "B. Right"], "answer": "B"}
-{"image": "human_eye100.jpg", "question": "Which eye of the woman in the picture is closed?", "options": ["A. Left", "B. Right"], "answer": "B"}
-{"image": "human_eye109.jpg", "question": "Which eye of the woman in the picture is open?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_upper_limb0659.jpg", "question": "Which hand of the woman in the picture is holding the phone?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_lower_limb1914.jpg", "question": "Which foot of the figure skater in the picture is in contact with the ice?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_lower_limb1568.jpg", "question": "Which leg of the rightmost skater is stepping forward?", "options": ["A. Left", "B. Right"], "answer": "B"}
@@ -5160,8 +5169,6 @@
 {"image": "animal_ear012.jpg", "question": "Which ear of the cow has a tag?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "animal_eye_wink064.jpg", "question": "Which eye of the cat is closed in the picture?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "animal_ear131.jpg", "question": "Which ear of the sheep has a tag?", "options": ["A. Left", "B. Right"], "answer": "B"}
-{"image": "animal_ear080.jpg", "question": "Which ear of the sheep has a tag?", "options": ["A. Left", "B. Right"], "answer": "B"}
-{"image": "animal_ear053.jpg", "question": "Which ear of the cow has a tag?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "animal_eye_odd064.jpg", "question": "Which eye of the cat in the picture is light yellow?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "animal_eye_wink117.jpg", "question": "Which eye of the cat in the picture is closed?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "animal_ear151.jpg", "question": "Which ear of the sheep in the picture has a tag?", "options": ["A. Left", "B. Right"], "answer": "B"}
@@ -5525,24 +5532,17 @@
 {"image": "human_ear_earring075.jpg", "question": "Which ear of the man in the picture is wearing an earring?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_eye042.jpg", "question": "Which eye of the man in the picture is open?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_upper_limb1387.jpg", "question": "Which hand of the child in the picture is holding the banana?", "options": ["A. Left", "B. Right"], "answer": "B"}
-{"image": "human_ear0070.jpg", "question": "Which ear of the woman is shown in the picture?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_eye050.jpg", "question": "Which eye of the child in the picture is closed?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_ear0442.jpg", "question": "Which ear of the woman is shown in the picture?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_upper_limb1080.jpg", "question": "Which hand of the man in the picture is holding the phone?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_lower_limb1982.jpg", "question": "Which foot of the athlete chasing the ball on the right side of the picture is raised backwards, with the toes pointing downwards?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_lower_limb0794.jpg", "question": "Which foot is the person holding the umbrella about to step forward with?", "options": ["A. Left", "B. Right"], "answer": "B"}
-{"image": "human_lower_limb0420.jpg", "question": "Which leg of the tennis player in the picture is raised backwards, with the foot suspended in the air and the toes pointing downwards?", "options": ["A. Left", "B. Right"], "answer": "B"}
-{"image": "human_lower_limb0535.jpg", "question": "Which foot of the girl in the picture is stepping forward?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_upper_limb1119.jpg", "question": "Which hand of the man in the picture is holding the wine glass?", "options": ["A. Left", "B. Right"], "answer": "B"}
-{"image": "human_upper_limb0156.jpg", "question": "Which hand of the girl in the picture is holding the pizza?", "options": ["A. Left", "B. Right"], "answer": "B"}
-{"image": "human_upper_limb1051.jpg", "question": "Which hand of the child in the picture is holding the phone?", "options": ["A. Left", "B. Right"], "answer": "B"}
-{"image": "human_upper_limb1365.jpg", "question": "Which hand of the man in the picture is holding the phone?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_lower_limb0552.jpg", "question": "Which leg of the skateboarder in the picture is bent?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_upper_limb1135.jpg", "question": "Which hand of the woman on the right side of the picture is placed on her waist?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_lower_limb1411.jpg", "question": "Which foot of the leftmost skater in the picture is raised back and pointed downward?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_lower_limb1874.jpg", "question": "Which leg of the figure skater in the picture is kneeling on the ice?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_upper_limb0355.jpg", "question": "Which hand of the woman in the picture is holding the phone?", "options": ["A. Left", "B. Right"], "answer": "B"}
-{"image": "human_eye030.jpg", "question": "Which eye of the woman in the picture is closed?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_lower_limb1325.jpg", "question": "Which foot of the climber in the picture is above the rock face, with the knee bent?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_upper_limb1539.jpg", "question": "Which hand of the man in the picture is holding the book?", "options": ["A. Left", "B. Right"], "answer": "B"}
 {"image": "human_lower_limb0215.jpg", "question": "Which foot is the man on the left in the picture lifting?", "options": ["A. Left", "B. Right"], "answer": "B"}
