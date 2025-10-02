@@ -1,8 +1,9 @@
 <br />
 
 <p align="center">
-  <h1 align="center"> 🪞MirrorQA: Exposing a Fundamental Flaw in MLLM Perception of Body-Part Orientation</h1>
-  <h3 align="center">MirrorQA: A new benchmark dataset for mirror reasoning of MLLMs</h3>
+  <h1 align="center"> 🪞MirrorQA: Benchmarking Multimodal LLMs on Mirror-Orientation Reasoning</h1>
+  <h3 align="center">MirrorQA: A new benchmark dataset for mirror-orientation reasoning of MLLMs</h3>
+
 
   <p align="center">  
     ·
@@ -39,7 +40,7 @@
 
 
 ## 1 Overview
-**MirrorQA** is a **manually annotated** dataset using multiple-choice question & answering (**QA**) to comprehensively evaluate the performance of **multimodal large language models(MLLMs)** on the specific task of **mirror-based orientation reasoning**. We extracted 5,549 images from several human and animal datasets(e.g., COCO, Animal-10K,etc)  and carefully constructed a body part recognition question for each image. The dataset covers 28 human activities and 43 animal categories. To ensure benchmark quality, we established clear annotation guidelines and a comprehensive quality control process for MirrorQA. These measures ensures a balanced distribution of correct answers across different dimensions and eliminates questions that can be answered using only the model's prior knowledge, without relying on the image.
+**MirrorQA** is a **manually annotated** dataset using multiple-choice question & answering (**QA**) to comprehensively evaluate the performance of **multimodal large language models(MLLMs)** on the specific task of **mirror-orientation reasoning**. We extracted 5,549 images from several human and animal datasets(e.g., COCO, Animal-10K,etc)  and carefully constructed a body part recognition question for each image. The dataset covers 28 human activities and 43 animal categories. To ensure benchmark quality, we established clear annotation guidelines and a comprehensive quality control process for MirrorQA. These measures ensures a balanced distribution of correct answers across different dimensions and eliminates questions that can be answered using only the model's prior knowledge, without relying on the image.
 
 ### Examples
 The following figures list some classic examples in our dataset. 
