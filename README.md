@@ -31,7 +31,7 @@
   - [Experiment](#experiment)
     - [Data Process](#data-process)
     - [Inference](#inference)
-    - [Finetune](#finetune)
+    - [Fine-tune](#fine-tune)
   - [Evaluation](#evaluation)
   - [Requirements](#requirements)
 - [4 License](#4-license)
@@ -49,7 +49,7 @@ The following figures list some classic examples in our dataset.
 
 ###  Detail Information
 
-As detailed in the following table, MirrorQA contains 5,549 samples, split into training, validation, and test sets with a 7:1:2 ratio.We also ensured that the number of correct answers for symmetrical types and dimensions (e.g., H.Left and H.Right) is as balanced as possible.
+As detailed in the following table, MirrorQA contains 5,549 samples, split into training, development, and test sets with a 7:1:2 ratio.We also ensured that the number of correct answers for symmetrical types and dimensions (e.g., H.Left and H.Right) is as balanced as possible.
 <br>All the split data sets are in the directory **_(Dataset/vqa_files)_**. 
 <br>
 
@@ -102,9 +102,9 @@ We provide the inference and fine-tuning code used in our experiments, along wit
 Code/
 ├── close_models/      # Inference code for closed-source models
 ├── data_process/      # Data process code for additional setting
-├── open_models/       # Inference and finetune code for open-source models
+├── open_models/       # Inference and fine-tune code for open-source models
 ├── evaluation/        # Evaluation code for all inference results
-└── requirements/      # Environment requirements for running the inference/finetune code
+└── requirements/      # Environment requirements for running the inference/ code
 ```
 
 ### Experiment
@@ -136,15 +136,15 @@ nohup python gpt5.py > log/gpt5.log 2>1& &
 ...
 ```
 
-#### Finetune
+#### Fine-tune
 
-- For instructBLIP, you can directly execute Python files in the directory **_(Code/open_models/finetune)_** to perform fine-tuning: 
+- For instructBLIP, you can directly execute Python files in the directory **_(Code/open_models/fine-tune)_** to perform fine-tuning: 
 
 ```
 nohup python instructblip.py > log/instructblip.log 2>1& &
 ```
 
-- For the remaining 9 open-source models, you need to execute bash files in the directory **_(Code/open_models/finetune)_** to perform fine-tuning:
+- For the remaining 9 open-source models, you need to execute bash files in the directory **_(Code/open_models/fine-tune)_** to perform fine-tuning:
 
 ```
 nohup bash intern.sh > log/intern.log 2>1& &
@@ -161,7 +161,7 @@ python metrics_circular.py
 
 ### Requirements
 
-The environment configuration required for inference/finetune code is placed in the directory **_(Code/requirements)_**.
+The environment configuration required for inference/fine-tune code is placed in the directory **_(Code/requirements)_**.
 
 
 
