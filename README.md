@@ -43,9 +43,9 @@
 **MirrorQA** is a **manually annotated** dataset using multiple-choice question & answering (**QA**) to comprehensively evaluate the performance of **multimodal large language models(MLLMs)** on the specific task of **mirror-orientation reasoning**. We extracted 5,549 images from several human and animal datasets(e.g., COCO, Animal-10K,etc)  and carefully constructed a body part recognition question for each image. The dataset covers 28 human activities and 43 animal categories. To ensure benchmark quality, we established clear annotation guidelines and a comprehensive quality control process for MirrorQA. These measures ensures a balanced distribution of correct answers across different dimensions and eliminates questions that can be answered using only the model's prior knowledge, without relying on the image.
 
 ### Examples
-The following figures list some classic examples in our dataset. 
+The following figures compare sample data from our MirrorQA with EmbSpatial-Bench and COCO Keypoints. “Q”, “O”, and “A” denote the question, options, and answer, respectively.
 
-![MirrorQA Examples](Illustrations/examples/example.png)
+![MirrorQA Examples](Illustrations\comparison\comparison.png)
 
 ###  Detail Information
 
@@ -167,4 +167,4 @@ The environment configuration required for inference/fine-tune code is placed in
 
 ## 4 License
 
-This project is licensed under the Apache-2.0 License.
+This project is licensed under the CC BY 4.0 license.
