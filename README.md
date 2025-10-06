@@ -45,7 +45,7 @@
 ### Examples
 The following figures compare sample data from our MirrorQA with EmbSpatial-Bench and COCO Keypoints. “Q”, “O”, and “A” denote the question, options, and answer, respectively.
 
-![MirrorQA Examples](Illustrations\comparison\comparison.png)
+![MirrorQA Examples](Illustrations/comparison/comparison.png)
 
 ###  Detail Information
 
